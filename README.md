@@ -8,4 +8,6 @@ also generates a table of contents page.
 For more information, see the `docs` directory or visit
 <http://www.unexpected-vortices.com/sw/gouda/docs/>.
 
----John M. Gabriele, 2012
+To install, just copy the gouda.py script to somewhere on your $PATH.
+
+— John M. Gabriele, 2012
