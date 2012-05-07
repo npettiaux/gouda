@@ -1,0 +1,8 @@
+Changes to Gouda:
+
+2012-05-07 --- moved source to github, added "smart" typographic
+option to pandoc command.
+
+2012-05-02 --- after a Pandoc update, had to change Gouda's default
+header id, since Pandoc was using id="header". Also changed the css to
+hide the whole Pandoc header.

@@ -1,0 +1,18 @@
+% News
+% John Gabriele
+
+2012-05-07
+
+  * project source now hosted at github
+  * now has Pandoc do smart conversion of quotes, dashes, and
+    ellipses
+
+2012-05-02
+
+  * updated for use with Pandoc 1.9.1.1
+
+2012-04-19
+
+  * lightened default page colors
+  * uses a couple of my favorite google webfonts now
+  * added "Chapter" in front of number in chapter headings
