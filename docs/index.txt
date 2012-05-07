@@ -113,15 +113,16 @@ the web to publish them.
 Install
 =======
 
-To install gouda.py, you'll first need to have Python 2.x installed
-(most GNU/Linux OS's already do). You'll also need to install
-[Pandoc](http://johnmacfarlane.net/pandoc/).  Instructions for that
-are on the Pandoc site but for Debian-based GNU/Linux distributions
-you can just `sudo apt-get install pandoc`.
+Prerequisites:
 
-To install Gouda, just save the gouda.py file (see top of page) to
-somewhere in your $PATH (such as `~/bin` or `/usr/local/bin`) and
-make sure it's executable (`chmod +x gouda.py`).
+  * Python 2.x
+  * [Pandoc](http://johnmacfarlane.net/pandoc/). Instructions for
+    installing Pandoc are on its website. For Debian-based GNU/Linux
+    distributions, it's: `sudo apt-get install pandoc`
+
+To install Gouda, just save the gouda.py file (see link at top of
+page) to somewhere in your $PATH (such as `~/bin` or `/usr/local/bin`)
+and make sure it's executable (`chmod +x gouda.py`).
 
 
 
