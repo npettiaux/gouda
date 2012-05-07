@@ -401,7 +401,7 @@ def process_files():
 </div>
 <div id="footer">
 <a href="{{this page as text}}">Pandoc-Markdown source for this page</a><br/>
-(Docs processed by <a href="http://www.unexpected-vortices.com/sw/gouda/docs/">Gouda</a>.)
+(Docs processed by <a href="http://www.unexpected-vortices.com/sw/gouda/">Gouda</a>.)
 </div>
 '''
     txt_filenames = chap_num_for_txtfilename.keys()
