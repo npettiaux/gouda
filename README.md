@@ -6,8 +6,6 @@ stitches them together as chapters into a coherent navigable whole. It
 also generates a table of contents page.
 
 For more information, see the `docs` directory or visit
-<http://www.unexpected-vortices.com/sw/gouda/docs/>.
-
-To install, just copy the gouda.py script to somewhere on your $PATH.
+<http://www.unexpected-vortices.com/sw/gouda/>.
 
 — John M. Gabriele, 2012
