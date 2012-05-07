@@ -4,11 +4,11 @@
 
 [download](https://github.com/uvtc/gouda) | [John Gabriele](/index.html)
 
-Gouda is a Python script which takes a bunch of text files, converts
-them to html (using [Pandoc](http://johnmacfarlane.net/pandoc/)), and
-stitches them together as chapters into a coherent navigable whole. It
-also generates a table of contents page. (This site was created with
-Gouda and uses its default low-contrast style.)
+Gouda is a script which takes a bunch of text files, converts them to
+html (using [Pandoc](http://johnmacfarlane.net/pandoc/)), and stitches
+them together as chapters into a navigable whole. It also generates a
+table of contents page. (This site was created with Gouda and uses its
+default low-contrast style.)
 
 Gouda aims to help make creating documentation as easy as possible,
 and requires pretty much zero configuration.
